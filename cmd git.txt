@@ -1,0 +1,6 @@
+git status
+git add <les fichiers a ajouter>
+git status
+git commit -m "message du commit"
+git status
+git push

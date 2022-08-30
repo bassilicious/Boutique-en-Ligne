@@ -1,7 +1,14 @@
 
 h1 {
-    color: darkblue;
-    font-size: 20px;
+    color: rgb(94, 47, 4);
+    font-size: 50px;
+}
+header{
+    height: 90px;
+    padding-top: 30px;
+}
+.title{
+    text-align: center;
 }
 
 main {
@@ -10,7 +17,7 @@ main {
 }
 
 section {
-    background-color: hotpink;
+    background-color: rgba(92, 2, 62, 0.74);
     padding-block: 100px;
 }
 
@@ -90,9 +97,17 @@ section {
     font-size: 36px;
     border: 2px solid #000;
     text-align: center;
+    margin: 25px;
 }
 
 .btn-containter {
     display: flex;
     justify-content: center;
+}
+footer{
+    height: 50px;
+}
+.copyright_msg{
+    text-align: center;
+    margin-top: 15px;
 }
